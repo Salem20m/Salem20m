@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 [![Salem's GitHub stats](https://github-readme-stats.vercel.app/api?username=salem20m&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs &count](https://github-readme-stats.vercel.app/api/top-langs/?username=salem20m)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs &count](https://github-readme-stats.vercel.app/api/top-langs/?username=salem20m&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
